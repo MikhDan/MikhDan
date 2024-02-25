@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikhDan
 - 👀 I’m interested in SQA, learning languages and fencing
-- 🌱 I’m currently learning manual testing, OPM, linux, js and maybe ruby
+- 🌱 I’m currently learning whatever I can handle
 - well really gonna change it later
 
 <!---
