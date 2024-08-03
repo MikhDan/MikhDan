@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MikhDan
-- 👀 I’m interested in SQA, learning languages and fencing
+- 👀 I’m interested in QA, learning languages and so on and so forth
 - 🌱 I’m currently learning whatever I can handle
 - well really gonna change it later
 
